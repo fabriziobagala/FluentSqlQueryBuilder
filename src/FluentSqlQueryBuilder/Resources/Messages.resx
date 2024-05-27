@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root>
+    <data name="SqlEngineUnavailableException" xml:space="preserve">
+        <value>The selected SQL engine is not currently available.</value>
+    </data>
+    <data name="Argument_EmptyString" xml:space="preserve">
+        <value>The value cannot be an empty string.</value>
+    </data>
+    <data name="Argument_EmptyOrWhiteSpaceString" xml:space="preserve">
+        <value>The value cannot be an empty string or composed entirely of whitespace.</value>
+    </data>
+</root>
